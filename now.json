@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "name": "now-502",
+  "regions": ["all"],
+  "public": true,
+  "builds": [
+    { "src": "src/index.js", "use": "@now/node@canary" }
+  ],
+  "routes": [
+    { "src": "/", "dest": "/src/index.js" }
+  ]
+}

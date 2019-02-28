@@ -1,0 +1,22 @@
+{
+  "name": "now-502",
+  "version": "0.1.0",
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/noriaki/now-502.git"
+  },
+  "author": "Noriaki Uchiyama <uchiyama.noriaki@gmail.com> (https://github.com/noriaki)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/noriaki/now-502/issues"
+  },
+  "homepage": "https://github.com/noriaki/now-502#readme",
+  "dependencies": {
+    "s3": "^4.4.0"
+  }
+}
